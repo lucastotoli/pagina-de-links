@@ -1,0 +1,18 @@
+{
+  "name": "Lucas Tótoli",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQGX62yyYr9n5w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721873330547?e=1750896000&v=beta&t=reVKKo_WXHsXy40YJmkDKxaKxu7BanYcpBjmrLqdoQU",
+  "description": "Apaixonado por análise de dados e iniciante no desenvolvimento web",
+  "links": [
+    {
+      "label": "GitHUB",
+      "url": "https://github.com/lucastotoli/"
+    },
+    {
+      "label": "Chess.com",
+      "url": "https://www.chess.com/member/monstro_sagrado"}
+  ],
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/in/lucas-totoli/",
+    "instagram": "https://www.instagram.com/lucas.totoli/"
+  }
+}
